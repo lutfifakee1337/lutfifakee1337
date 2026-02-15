@@ -1,7 +1,7 @@
 # 💀 Lutfifakee
 
 <p align="center">
-  <img src="https://github.com/lutfifakee1337/lutfifakee1337/blob/main/lutfifakee-icon.png?raw=true" alt="Lutfifakee Banner" width="280" height="180"/>
+  <img src="https://github.com/lutfifakee1337/lutfifakee1337/blob/main/lutfifakee-icon.png?raw=true" alt="Lutfifakee Banner" width="480" height="180"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Penetration+Tester;Ethical+Hacker;Security+Researcher;Code+Architect;Hardware+Programmer;Polyglot+Developer" alt="Typing SVG" />
 </p>
