@@ -1,14 +1,14 @@
 # 💀 Lutfifakee
 
 <p align="center">
-  <img src="https://github.com/Lutfifakee/Lutfifakee/blob/main/text.gif?raw=true" alt="Lutfifakee Banner" width="600"/>
+  <img src="https://github.com/lutfifakee1337/lutfifakee1337/blob/main/lutfifakee-icon.png?raw=true" alt="Lutfifakee Banner" width="600"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Penetration+Tester;Ethical+Hacker;Security+Researcher;Code+Architect;Hardware+Programmer;Polyglot+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🕵️‍♂️ Whoami
+## Whoami
 
 ```bash
 > sudo whoami
@@ -28,9 +28,9 @@ For me, security isn't just about finding vulnerabilities, but about understandi
 
 ---
 
-## 🧠 Language Matrix
+## Language Matrix
 
-### ⚙️ **Hardware-Near Languages** (Speaking directly to the silicon)
+### Hardware-Near Languages (Speaking directly to the silicon)
 ```
 Assembly    ■■■■■■■■■■ 100% - Talking to CPUs in their native tongue
 C           ■■■■■■■■■■ 100% - The godfather of system programming
@@ -39,9 +39,9 @@ Rust        ■■■■■■■■■□ 95%  - Memory-safe without garbage co
 Zig         ■■■■■■■□□□ 75%  - Modern take on system programming
 ```
 
-### 🌐 **Web Development** (Crafting digital experiences)
+### Web Development (Crafting digital experiences)
 
-**Frontend Sorcery:**
+**Frontend:**
 ```
 HTML        ■■■■■■■■■■ 100% - The skeleton of the web
 CSS         ■■■■■■■■■■ 100% - Making things beautiful
@@ -50,7 +50,7 @@ TypeScript  ■■■■■■■■■□ 95%  - JavaScript with superpowers
 Dart        ■■■■■■■□□□ 75%  - Flutter's native tongue
 ```
 
-**Backend Architecture:**
+**Backend:**
 ```
 PHP         ■■■■■■■■■■ 100% - Powering 80% of the web
 Node.js     ■■■■■■■■■■ 100% - JavaScript on the server
@@ -63,7 +63,7 @@ Kotlin      ■■■■■■□□□□ 70%  - Java but better
 Swift       ■■■■■■□□□□ 70%  - Apple's ecosystem
 ```
 
-### 🛠️ **Most Frequently Used** (My daily drivers)
+### Most Frequently Used (My daily drivers)
 ```
 Bash        ■■■■■■■■■■ 100% - Automating everything
 PowerShell  ■■■■■■■■■□ 95%  - When Windows needs some love
@@ -73,7 +73,7 @@ Lua         ■■■■■■■■■■ 100% - Embedding scripts everywhere
 
 ---
 
-## ⚡ Tech Stack Visualization
+## Tech Stack Visualization
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,php,java,cs,cpp,c,ruby,go,rust,zig,lua,bash,perl,powershell,kotlin,swift,dart,react,nodejs,express,flask,django,mysql,mongodb,redis,docker,kubernetes,git,linux,aws" />
@@ -81,7 +81,7 @@ Lua         ■■■■■■■■■■ 100% - Embedding scripts everywhere
 
 ---
 
-## 🏗️ Architecture Expertise
+## Architecture Expertise
 
 ```mermaid
 graph LR
@@ -101,22 +101,22 @@ graph LR
 
 ---
 
-## 🔧 Arsenal
+## Arsenal
 
-### **Core Weapons**
+### Core Weapons
 | Category | Tools & Technologies |
 |----------|---------------------|
-| 💻 **Primary Languages** | Python, JavaScript/TypeScript, PHP, C/C++, Assembly |
-| 🌐 **Web Stack** | HTML5, CSS3, React.js, Node.js, Express.js, Laravel |
-| 🔬 **Pentesting** | Metasploit, Burp Suite Pro, Nmap, Wireshark, SQLmap, Ghidra |
-| 🛡️ **Security** | Firewall Configuration, IDS/IPS, Cryptography, Reverse Engineering |
-| 🗄️ **Databases** | MySQL, MongoDB, PostgreSQL, Redis, SQLite |
-| 🛠️ **DevOps & Tools** | Docker, Kubernetes, Jenkins, Git, Vagrant, Ansible |
-| 📜 **Scripting** | Bash, PowerShell, Perl, Lua, AWK, Sed |
+| Primary Languages | Python, JavaScript/TypeScript, PHP, C/C++, Assembly |
+| Web Stack | HTML5, CSS3, React.js, Node.js, Express.js, Laravel |
+| Pentesting | Metasploit, Burp Suite Pro, Nmap, Wireshark, SQLmap, Ghidra |
+| Security | Firewall Configuration, IDS/IPS, Cryptography, Reverse Engineering |
+| Databases | MySQL, MongoDB, PostgreSQL, Redis, SQLite |
+| DevOps & Tools | Docker, Kubernetes, Jenkins, Git, Vagrant, Ansible |
+| Scripting | Bash, PowerShell, Perl, Lua, AWK, Sed |
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
 ```
 ┌─────────────────────────────────────┐
@@ -127,15 +127,15 @@ graph LR
 └─────────────────────────────────────┘
 ```
 
-- ✅ **OSCP** (Offensive Security Certified Professional)
-- ✅ **CEH** (Certified Ethical Hacker)
-- ✅ **Top 5%** in HackTheBox Global Rankings
-- ✅ **Multiple CVEs** Discovered & Credited
-- ✅ **Bug Bounty** Hall of Fame Member
+- OSCP (Offensive Security Certified Professional)
+- CEH (Certified Ethical Hacker)
+- Top 5% in HackTheBox Global Rankings
+- Multiple CVEs Discovered & Credited
+- Bug Bounty Hall of Fame Member
 
 ---
 
-## 📊 GitHub Battlefield Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lutfifakee&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
@@ -152,19 +152,19 @@ graph LR
 
 ---
 
-## 🎯 Current Operations
+## Current Operations
 
 ```
-[ACTIVE] 🔭 Working on: Advanced penetration testing automation tools
-[LEARNING] 🌱 Blockchain security & Smart Contract auditing
-[OPEN] 👯 Looking to collaborate: Open-source security tools
-[EXPERT] 💬 Ask me about: Ethical hacking, Network security, Exploit development
-[FUN] ⚡ Fact: I can crack a Wi-Fi password faster than you can say "cybersecurity"
+[ACTIVE] Working on: Advanced penetration testing automation tools
+[LEARNING] Blockchain security & Smart Contract auditing
+[OPEN] Looking to collaborate: Open-source security tools
+[EXPERT] Ask me about: Ethical hacking, Network security, Exploit development
+[FUN] Fact: I can crack a Wi-Fi password faster than you can say "cybersecurity"
 ```
 
 ---
 
-## 📡 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/lutfifakee" target="_blank">
@@ -189,19 +189,19 @@ graph LR
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stars | Tech Stack |
 |---------|-------------|-------|------------|
-| [🔒 VulnScanner](https://github.com/Lutfifakee/vulnscanner) | Automated vulnerability scanner with ML | ⭐ 245 | Python, Nmap, TensorFlow |
-| [🕸️ WebCrawlerX](https://github.com/Lutfifakee/webcrawlerx) | Advanced web crawling & enumeration | ⭐ 189 | Python, Selenium, BeautifulSoup |
-| [📡 NetMonitor](https://github.com/Lutfifakee/netmonitor) | Real-time network monitoring & IDS | ⭐ 156 | C++, Wireshark, TCPDump |
-| [💉 SQLMapPro](https://github.com/Lutfifakee/sqlmappro) | Automated SQL injection tool | ⭐ 312 | Python, PHP, MySQL |
-| [🔑 HashCracker](https://github.com/Lutfifakee/hashcracker) | Multi-algorithm hash cracker | ⭐ 98 | C, OpenCL, Assembly |
+| [VulnScanner](https://github.com/Lutfifakee/vulnscanner) | Automated vulnerability scanner with ML | ⭐ 245 | Python, Nmap, TensorFlow |
+| [WebCrawlerX](https://github.com/Lutfifakee/webcrawlerx) | Advanced web crawling & enumeration | ⭐ 189 | Python, Selenium, BeautifulSoup |
+| [NetMonitor](https://github.com/Lutfifakee/netmonitor) | Real-time network monitoring & IDS | ⭐ 156 | C++, Wireshark, TCPDump |
+| [SQLMapPro](https://github.com/Lutfifakee/sqlmappro) | Automated SQL injection tool | ⭐ 312 | Python, PHP, MySQL |
+| [HashCracker](https://github.com/Lutfifakee/hashcracker) | Multi-algorithm hash cracker | ⭐ 98 | C, OpenCL, Assembly |
 
 ---
 
-## 📈 Weekly Development Breakdown
+## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -217,20 +217,20 @@ Other        30 mins         ▒░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎮 When I'm Not Coding
+## When I'm Not Coding
 
 ```
-🎯 Playing CTF competitions on HackTheBox & TryHackMe
-📚 Reading cybersecurity research papers & exploit databases
-🎧 Listening to synthwave/LoFi while hacking
-☕ Drinking coffee (lots of it!) - Fuel for late-night sessions
-🎮 Reverse engineering old video games for fun
-🔧 Building custom mechanical keyboards
+Playing CTF competitions on HackTheBox & TryHackMe
+Reading cybersecurity research papers & exploit databases
+Listening to synthwave/LoFi while hacking
+Drinking coffee (lots of it!) - Fuel for late-night sessions
+Reverse engineering old video games for fun
+Building custom mechanical keyboards
 ```
 
 ---
 
-## 🎵 Currently Vibing To
+## Currently Vibing To
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&redirect=true">
@@ -240,7 +240,7 @@ Other        30 mins         ▒░░░░░░░░░░░░░░░░
 
 ---
 
-## 💻 Terminal Fun
+## Terminal Fun
 
 ```bash
 # Check out my activity
@@ -259,13 +259,13 @@ $ echo "lutfifakee@protonmail.com" | base64 -d
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=30&color=gradient" />
   <br>
-  <i>⚡ "The only secure system is the one that's powered off. And even that's questionable." ⚡</i>
+  <i>"The only secure system is the one that's powered off. And even that's questionable."</i>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=shark&height=30&color=gradient" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lutfifakee/Lutfifakee/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/lutfifakee1337/lutfifakee1337/raw/refs/heads/main/snake.svg" alt="Lutfifakee | Snake animation" />
 </p>
 
 <p align="center">
